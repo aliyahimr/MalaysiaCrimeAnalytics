@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data files
+data/raw/*
+data/processed/*
+
+# Generated analysis outputs
+outputs/tables/*
+outputs/figures/*
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+pandas
+fastparquet
+numpy
+scikit-learn
+matplotlib
